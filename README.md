@@ -10,4 +10,4 @@ We expect this dataset could help other researchers move further to understand t
 
 # Statement
 
-Please indicate the source-link and cite the above CCS'20 paper when using this dataset. In addition, if you need more relevant data or have any questions, please contact zhangyim17@mails.tsinghua.edu.cn. We would provide responses as soon as possible.  
+Please indicate the source-link and cite the above CCS'20 paper when using this dataset. In addition, if you need more relevant data or have any questions, please contact zhangyiming@tsinghua.edu.cn. We would provide responses as soon as possible.  
